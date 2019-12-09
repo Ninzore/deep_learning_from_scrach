@@ -1,4 +1,5 @@
 # deep_learning_from_scrach
+under heavily construction
 
 ## to do:
   1. backward
